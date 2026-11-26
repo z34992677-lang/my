@@ -1,1 +1,7 @@
- سلام و علیک 
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>TEST WEBSITE</h1>
+</body>
+</html>
+ 
